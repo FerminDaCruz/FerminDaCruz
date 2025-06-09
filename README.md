@@ -53,7 +53,8 @@
   </a>
   
   <a href="https://www.tiktok.com/@fer0.dev?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
-    <img src="[https://iconos8.es/icon/118638/tiktok](https://img.icons8.com/?size=100&id=118638&format=png&color=000000)" alt="TikTok" height="30" width="30" />
+    <img src="https://github.com/user-attachments/assets/31da2e16-d9e8-4c2b-8f6e-516a686c305b
+" alt="TikTok" height="30" width="30" />
   </a>
   
   <a href="https://portfolio-fermin.dev" target="_blank" rel="noopener noreferrer">
