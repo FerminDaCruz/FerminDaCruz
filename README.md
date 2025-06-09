@@ -33,12 +33,10 @@
 
 ---
 
-<h3 align="center">Mis estadísticas en GitHub</h3>
+<h3 align="center">Lenguajes más usados</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FerminDaCruz&show_icons=true&theme=dark&layout=compact" alt="Top Lenguajes" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=FerminDaCruz&show_icons=true&theme=dark" alt="Estadísticas GitHub" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FerminDaCruz&theme=dark" alt="Racha de commits" width="400" />
 </p>
 
 ---
@@ -49,13 +47,17 @@
   <a href="https://linkedin.com/in/fermindacruz" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://github.com/FerminDaCruz" target="_blank" rel="noopener noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" width="30" style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-fermin.dev" target="_blank" rel="noopener noreferrer" style="color: #f44336; font-weight: bold; font-size: 16px;">
-    Mi Portfolio
+  
+  <a href="https://www.tiktok.com/@fer0.dev?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="30" width="30" />
+  </a>
+  
+  <a href="https://portfolio-fermin.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
 
