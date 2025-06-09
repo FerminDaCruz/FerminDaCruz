@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" style="max-width: 600px; margin: auto;">
-  Actualmente estoy enfocado en aprender y perfeccionar desarrollo web Full Stack, creando aplicaciones escalables, limpias y eficientes.  
+  Actualmente estoy enfocado en trabajar, aprender y mejorar en el entorno de desarrollo web, creando aplicaciones escalables, limpias y eficientes.  
   Mis tecnologías favoritas y herramientas que manejo son:
 </p>
 
