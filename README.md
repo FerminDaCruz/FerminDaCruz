@@ -1,16 +1,17 @@
-## Hi there 👋
+Fermin Da Cruz  
+Desarrollador Web Full Stack
 
-<!--
-**FerminDaCruz/FerminDaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologías:  
+HTML | CSS | JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | PostgreSQL | SQL | SASS | Tailwind | SEO
 
-Here are some ideas to get you started:
+Actualmente enfocado en crear aplicaciones web modernas, optimizadas y escalables.  
+Apasionado por el desarrollo personal, la mejora continua y la disciplina tanto en el código como en la vida diaria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos destacados y portfolio:  
+https://portfolio-fermin.dev
+
+Contacto profesional:  
+LinkedIn: https://linkedin.com/in/fermindacruz  
+GitHub: https://github.com/FerminDaCruz  
+
+Estoy abierto a oportunidades como desarrollador web para seguir creciendo y aportar con soluciones efectivas y limpias.
